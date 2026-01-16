@@ -1,0 +1,6 @@
+.venv1/
+.venv/
+__pycache__/
+log.txt
+other.py
+
